@@ -1,0 +1,67 @@
+.section-six {
+    background:rgb(12, 12, 12);
+    display: block;
+    flex-wrap: wrap;
+    align-content: center;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: gray;
+    font-size: 18px;
+
+  }
+  
+  .photo1{
+    width: 100%;
+    max-width: 200px;
+    border-radius: 50%;
+    margin-bottom: 40px;
+}
+
+  .name{
+    font-size: 50px;
+    color: white;
+ }
+
+.text-card{
+    width: 100%;
+    text-align: center;
+}
+  
+  .button{
+    margin-top: 30px;
+    color: white;
+    display: block;
+    margin-bottom: 20px;
+    font-size: 13px;
+  }
+  
+  
+  .button-one{
+    padding: 5px 10px;
+    border-radius: 6px;
+    background: #00d1b2;
+    margin-right: 5px;
+}
+
+  .button-two{
+    padding: 5px 10px;
+    border-radius: 6px;
+    background: #ff3860;
+  }
+
+  .button-three{
+    padding: 5px 10px;
+    border-radius: 4px;
+    background: #209cee;
+    margin-left: 5px;
+  }
+
+.lenguajes{
+    padding-top: 80px;
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    color: white;
+    margin: 0px auto;
+}

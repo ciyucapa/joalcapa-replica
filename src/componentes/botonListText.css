@@ -1,0 +1,31 @@
+.subcontainer-one {
+  width: 100%;
+  background: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 30px 0px;
+}
+  
+.column-text{
+  width: 100%;
+  max-width: 285px;
+  padding: 20px 5px;
+  display: block;
+  justify-content: center;
+  text-align: center;
+  color: gray;
+  font-size: 110%;
+}
+
+.column-text-text{
+  width: 100%;
+  max-width: 265px;
+}
+
+.icon1{
+  width: 30%;
+  padding: 30px;
+}
+
+  

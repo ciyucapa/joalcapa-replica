@@ -1,0 +1,30 @@
+.red-social{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    justify-content: center; 
+    align-items: center;
+ 
+}
+
+.red-social-app a{
+    text-decoration: none;
+    color: white;
+}
+
+.red-social-app{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.icon{
+    width: 100%;
+    max-width: 30px;
+    margin: 0px auto;
+}
+
+.red-social-title{
+    font-size: 18px;
+}

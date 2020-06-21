@@ -1,0 +1,57 @@
+.text-zona{
+    color: whitesmoke;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+.imagen-one{
+    width: 100%;
+    max-width: 320px;
+    margin-left: 170px;
+    animation-fill-mode: both;
+    animation-duration: 1000ms;
+    animation-delay: 0ms;
+    animation-iteration-count: 1;
+    opacity: 1;
+    animation-name: react-reveal-123937111652120-2;    
+}
+
+.text-zona-one{
+    text-align: center;
+    font-size: 22px;
+    width: 100%;
+    max-width: 600px;
+    margin: 0px auto;
+    color: gray;
+}
+
+.text-aplication{
+    color: gray;
+    font-size: 25px;
+    padding: 0px 10px;
+}
+
+.text-aplication-one{
+    color: white;
+}
+
+.text-zona-title{
+    font-size: 50px;
+    padding: 0px 10px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+.text-zona-imagen-two{
+text-align: center;
+}
+
+.imagen-two{
+    width: 100%;
+    max-width: 700px;
+    margin: auto;
+    padding-top: 110px;
+    padding-bottom: 20px;
+}
+

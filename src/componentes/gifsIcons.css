@@ -1,0 +1,32 @@
+.gif-icon-section{
+  background:black;
+  color: white;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px 0px;
+}
+
+.gif-icon{
+  padding: 40px 20px;
+}
+
+.gif-icon1{
+  padding: 20px 20px;
+  
+}
+
+.gif-icon-imagen{
+  width: 100%;
+  max-width: 150px;
+  margin: 0px auto;
+}
+
+.gif-icon-text{
+  width: 100%;
+  max-width: 350px;
+  margin: 0px auto;
+  font-size: 18px;
+  color: gray;
+}

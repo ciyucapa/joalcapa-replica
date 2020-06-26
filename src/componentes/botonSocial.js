@@ -1,5 +1,5 @@
 import React from 'react'
-import './botonSocial1.css'
+import './css/botonSocial1.css'
 
 function BotonSocial() {
     return(

@@ -6,10 +6,11 @@ import Foonter from './componentes/fonter.js'
 
 function App() {
   return(
-    <> <Header/>
-       <Body/> 
-       <Foonter/>
+    <> 
+      <Header/>
+      <Body/> 
+      <Foonter/>
     </>
-    );
+  );
 }
 export default App;

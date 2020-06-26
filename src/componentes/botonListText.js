@@ -1,7 +1,7 @@
 import React from 'react';
-import './botonListText.css';
+import './css/botonListText.css';
 
-function BotonListText({ title, icon, text}) {
+function BotonListText({ title, icon, text, icon1, icon2}) {
     
     return(
         <div className="column-text">
@@ -9,7 +9,12 @@ function BotonListText({ title, icon, text}) {
                 {title}
             </div>
             <div className="column-text-icon">
-                <img src={icon} className='icon1' />
+                { icon ? (
+                    <img src={icon} className="icon-small" />
+                ) : (
+                    <img src={icon1} className="icon1" />
+                ) 
+                }
             </div>
             <div className="column-text-text">
                 {text} 

@@ -1,5 +1,5 @@
 import React from 'react'
-import './zonaAplication.css'
+import './css/zonaAplication.css'
 
 function ZonaAplication() {
 

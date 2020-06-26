@@ -23,8 +23,18 @@
   max-width: 265px;
 }
 
+.icon-small{
+  width: 28%;
+  padding: 30px;
+}
+
 .icon1{
-  width: 30%;
+  width: 50%;
+  padding: 30px;
+}
+
+.icon2{
+  width: 40%;
   padding: 30px;
 }
 

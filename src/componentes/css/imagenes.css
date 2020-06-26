@@ -1,0 +1,29 @@
+.imagen-desing{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    box-sizing: inherit;
+    margin-bottom: 10%;
+}
+  
+.imagen-desing-one{
+    padding: 0px 20px;
+    text-align: center;
+}
+  
+.desing-one{
+    width: 100%;
+    max-width: 400px;
+}
+  
+.desing-two{
+    display: block;
+    width: 200px;
+    margin: auto;
+}
+  
+.desing-three{
+    width: 100%;
+    max-width: 90%;
+}

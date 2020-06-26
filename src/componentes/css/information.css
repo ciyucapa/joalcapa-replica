@@ -1,0 +1,29 @@
+.text-create{
+    background:black;
+    display: block;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+  }
+  
+  
+  .text-create-title{
+    font-size: 70px;
+  }
+  
+  .text-create-text{
+    font-size: 22px;
+    width: 100%;
+    max-width: 850px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    color: gray;
+  }
+  
+  .text-create-imagen{
+    width: 100%;
+    max-width: 1200px;
+  }
+  
+  

@@ -1,6 +1,5 @@
 import React from 'react'
-import './menu.css';
-import PagoVita from './pagoVita.js'
+import './css/menu.css';
 
 
 function Menu() {

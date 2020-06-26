@@ -1,5 +1,5 @@
 import React from 'react'
-import './fonter.css';
+import './css/fonter.css';
 
 function Foonter() {
     return(

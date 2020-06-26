@@ -1,0 +1,40 @@
+.container-text-card{
+    background: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px 20px;
+  }
+  
+.text-card-title{
+    font-size: 28px;
+}
+  
+.text-card-text{
+    font-size: 22px;
+    width: 100%;
+    max-width: 460px;
+    padding-top: 20px;
+    margin: auto;  
+}
+  
+.text-card-imagen-two{
+    width: 100%;
+    max-width: 250px;
+    margin: auto;
+}
+  
+.text-card-imagen-one{
+    width: 100%;
+    max-width: 200px;
+    margin: auto;
+}
+  
+.text-card-two{
+    padding: 10px 90px;
+}
+  
+.text-card-one{
+    padding: 10px 90px;
+}

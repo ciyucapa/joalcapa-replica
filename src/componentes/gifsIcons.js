@@ -1,5 +1,5 @@
 import React from 'react'
-import './gifsIcons.css'
+import './css/gifsIcons.css'
 
 function GifsIcons() {
     return(
